@@ -1,6 +1,7 @@
 DerivedData/
 build/
-Pod/
+Pods/
+*.lock
 *.moved-aside
 *.xcuserstate
 *.hmap
