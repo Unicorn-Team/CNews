@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CNNavigationViewController.h
 //  CNews
 //
 //  Created by chen_sy on 2018/12/18.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface CNNavigationViewController : UINavigationController
 
 @end
 
+NS_ASSUME_NONNULL_END
